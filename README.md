@@ -1,5 +1,6 @@
 # Madlibs-game
-Funny and simple game created using C#
+
+## Funny and simple game created using C#
 
 ### Description:
 
