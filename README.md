@@ -8,13 +8,17 @@ This was my first ever project in C# using a console application. I learnt how t
 
 I also learnt how to play around with the background colours and understand different types of properties and how the data structures work.
 
-Because I self taught myself this meant that I had to learn how to add this project onto Github and get feedback from people in the future.
-
 ### What I learnt:
+- Console app
+- User input
+- Variables
+
 
 
 ### Constraints:
 
 None.
 
-> What could I do to improve this project: I could add classes and make things neater. I could also find a way to reduce the code. For example, taking user feedback could be 5 lines of code so we could reduce it down too 3 or 2 lines of code.
+### Improvements:
+
+None.
