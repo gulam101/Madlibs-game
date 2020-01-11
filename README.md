@@ -3,13 +3,33 @@
 ## Console App game using C#
 
 # Table of Contents
-- Description
-- What I learnt
-- Tools/Links
-- Improvements
-- Constraints
-- Screenshots
-- Credits
+
+[Description](#Description)  
+<a name="Description"/>
+
+
+[Description](#Description)  
+<a name="Description"/>
+
+
+[Description](#Description)  
+<a name="Description"/>
+
+
+[Description](#Description)  
+<a name="Description"/>
+
+
+[Description](#Description)  
+<a name="Description"/>
+
+
+[Description](#Description)  
+<a name="Description"/>
+
+
+[Description](#Description)  
+<a name="Description"/>
 
 
 ### Description:
