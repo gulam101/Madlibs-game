@@ -31,7 +31,7 @@ Since this project was a tutorial I found on YouTube, I don't think I would chan
 
 ### Tools/Links
 - https://trello.com/en
-- https://www.youtube.com/watch?v=juANFo-PbsY
+- https://www.youtube.com/watch?v=juANFo-PbsY (original author)
 - https://visualstudio.microsoft.com/vs/support/
 
 ### Improvements:
