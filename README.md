@@ -23,12 +23,16 @@ This was my first ever project in C# using a console application. I learnt how t
 - Properties within C#
 - Better understanding of Visual Studio
 
+### Tools/Links
+- https://trello.com/en
+- https://www.youtube.com/watch?v=juANFo-PbsY
 
+### Improvements:
+
+None.
 
 ### Constraints:
 
 None.
 
-### Improvements:
 
-None.
