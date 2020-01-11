@@ -28,6 +28,7 @@ This was my first ever project in C# using a console application. I learnt how t
 ### Tools/Links
 - https://trello.com/en
 - https://www.youtube.com/watch?v=juANFo-PbsY
+- https://visualstudio.microsoft.com/vs/support/
 
 ### Improvements:
 
