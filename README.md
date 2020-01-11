@@ -3,13 +3,13 @@
 ## Console App game using C#
 
 # Table of Contents
-Description
-What I learnt
-Tools/Links
-Improvements
-Constraints
-Screenshots
-Credits
+- Description
+- What I learnt
+- Tools/Links
+- Improvements
+- Constraints
+- Screenshots
+- Credits
 
 
 ### Description:
