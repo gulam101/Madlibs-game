@@ -18,7 +18,7 @@ This was my first ever project in C# using a console application. I learnt how t
 
 This project I followed it on YouTube to put the knowledge I acquired to the test and to learn how to build my first project in C# using console app.
 
-However, compared the the tutorial I did include my own changes because I wanted to understand how to create my first application and make sure that I know when to change if I wanted to change it and added moore features.
+However, compared the tutorial I did include my own changes because I wanted to understand how to create my first application and make sure that I know when to change if I wanted to change it and added more features.
 
 ### Planned Features:
 
@@ -38,7 +38,7 @@ Since this project was a tutorial I found on YouTube, I don't think I would chan
 
 ### Improvements:
 
-Like I said before, if I would make improvements to this project then I would create a new console app that would allow the user to create their own story. I would also give them differnet options and unique settings to change the experience each time.
+Like I said before, if I would make improvements to this project then I would create a new console app that would allow the user to create their own story. I would also give them different options and unique settings to change the experience each time.
 
 ### Constraints:
 
