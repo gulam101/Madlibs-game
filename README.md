@@ -36,7 +36,7 @@ Since this project was a tutorial I found on YouTube, I don't think I would chan
 
 ### Improvements:
 
-If I would make improvements to this project then I would create a new console app that would allow the user to create their own story 
+Like I said before, if I would make improvements to this project then I would create a new console app that would allow the user to create their own story. I would also give them differnet options and unique settings to change the experience each time.
 
 ### Constraints:
 
