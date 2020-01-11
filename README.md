@@ -40,8 +40,9 @@ Like I said before, if I would make improvements to this project then I would cr
 
 ### Constraints:
 
-None.
+I followed this project on YouTube, so I didn't have any constraints that affected the code/performance of the application.
 
 ### Screenshots:
 
 ### Credits:
+
