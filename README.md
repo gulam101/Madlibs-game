@@ -1,6 +1,6 @@
 # Madlibs-game
 
-## Console App game using C#
+## Madlibs Game - Console Application
 
 # Table of Contents
 
